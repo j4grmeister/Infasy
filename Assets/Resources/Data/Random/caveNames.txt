@@ -1,0 +1,15 @@
+<adjective>
+crystal
+dark
+misty
+cold
+gold
+</adjective>
+<noun>
+cave
+cavern
+dungeon
+crypt
+chasm
+mine
+</noun>
